@@ -263,6 +263,21 @@
   height: 100%;
 }
 
+.intro-bg__bot {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+}
+
+.intro-bg__bot img {
+  width: 100%;
+  height: 70px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
 .intro .container {
   width: 100%;
   height: 100%;
